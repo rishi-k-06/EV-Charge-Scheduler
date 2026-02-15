@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+.streamlit/config.toml
+*.log
+user_preferences.json
